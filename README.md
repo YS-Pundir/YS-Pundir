@@ -51,17 +51,34 @@ I am not perfect — but I show up every day to get better.
 
 ---
 
-##  My Goals ->
+##  My Goals->
 
-- Become strong in **Java backend development**  
-- Build real-world applications  
-- Master **DSA** and problem-solving  
-- Contribute to open-source  
-- Work in tech companies in Germany or globally  
-- Use my knowledge to build intelligent systems  
-- One day, look back at this GitHub and see my full journey — from a beginner to an expert
+###  Software Engineering Goals
+- Build a strong foundation in all core software engineering subjects  
+  (Operating Systems, Database Systems, Computer Networks, Software Architecture, Algorithms, Design Patterns)
+- Develop clean coding habits, documentation skills, and real development workflows
+- Become confident with Git, GitHub, version control, and team collaboration
+- Learn industry-level software development practices used in real companies
 
----
+###  Development Goals
+- Master Java backend development (Spring Boot + PostgreSQL)
+- Build real-world applications step by step
+- Strengthen DSA for coding interviews and problem-solving
+- Create automation scripts and useful tools with Python
+- Contribute to open-source projects
+
+###  Agentic AI & Future Tech Goals
+- Explore Agentic AI systems through my **IIT Roorkee course**
+- Understand how autonomous agents learn, reason, and make decisions
+- Build small AI agents and tools to apply what I learn
+- Work at the intersection of **software engineering + AI systems**
+
+###  Career & Long-Term Vision
+- Work in modern tech companies (Germany / Global)
+- Gain experience in large-scale backend systems and intelligent applications
+- Keep documenting my journey on GitHub from beginner → expert
+- Become a developer who builds impactful, meaningful software
+
 
 ## 📂 Repositories Coming Soon ->
 
