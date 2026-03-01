@@ -1,107 +1,54 @@
-#  Hi! I’m Yuvraj Singh Pundir  
+# Hi! I’m Yuvraj Singh Pundir
 
-### *Software Engineering Student *
+*Software Engineering Student | Future AI Engineer*
 
----
+### My Journey ->
 
-##  My Journey ->
+My passion for technology began with a profound curiosity, practicing C language fundamentals on **paper and pencil** during my first semester at Kurukshetra University. That simple exercise sparked a lifelong enjoyment of solving logical problems.
 
-I didn’t start coding on a powerful laptop or expensive setup.  
-I started with a **paper and pencil**, practicing C language during my first semester at *Kurukshetra University*.  
-That’s where I first discovered that I truly enjoy solving problems.
+Later, I moved to Germany for my studies. Before diving into software, I worked for 2 months at **Tesla’s Gigafactory Berlin**. Working in that massive, advanced environment was a turning point. It didn't just show me how a factory operates; it opened my eyes to the incredible scale of modern engineering. That experience fueled my motivation to study harder and become a powerful technical contributor.
 
-Later, I moved to Germany for my studies.  
-My first job here was very different from programming —  
-I worked for **2 months** in the **Formal-D company at Tesla’s Gigafactory Berlin**, doing warehouse and quality assurance work on car parts.
+Now, I am studying what I truly love.
 
-It was the first time in my life I saw such a massive, advanced factory.  
-That place opened my eyes.
+### Who I Am Today ->
 
-Seeing the huge Tesla Gigafactory made me realize:
+* I am a **Software Engineering student** at the University of Europe, Potsdam (Germany).
+* I am also taking the **Agentic AI Systems & Design** course from **IIT Roorkee**.
+* Languages: C → Python → Java → Git/GitHub.
+* I’m building my foundations step by step and openly sharing my learning journey.
+* I am not perfect — but I show up every day to get better.
 
-> **“If I want to work in places like this, I must study hard and become strong in technology.”**
+### What I Am Working On Right Now ->
 
-That day changed my motivation completely.
+* Revising **Python** for Data Science and Backend development.
+* Mastering **Machine Learning** .
+* Building **Agentic AI systems** (RAG, Tool-calling, Multi-agents) through IIT Roorkee.
+* Developing **backend services** using FastAPI, Spring Boot, and PostgreSQL.
 
-Now I am studying what I truly love.
+### My Goals->
 
----
+#### Software Engineering & Backend Goals
+* Build a strong foundation in core subjects (OS, DB, Networks, Architecture).
+* Master **FastAPI** and **Spring Boot** for scalable API development.
+* Become confident with industry-level workflows: Git, Docker, and CI/CD.
 
-##  Who I Am Today ->
+#### AI & Agentic Goals
+* Master **RAG architectures** and **Vector Databases**.
+* Work at the intersection of **software engineering + AI agents**.
 
-- I am a **Software Engineering student** at the **University of Europe, Potsdam (Germany)**  
-- I am also taking the **Agentic AI Systems & Design** course from **IIT Roorkee**  
-- I have learned **C → Python → Java → Git/GitHub**  
-- I’m building my foundations step by step  
-- I’m openly sharing my learning journey through GitHub
+#### Career & Vision
+* Work in modern tech companies (Global).
+* Build impactful, intelligent software that solves real-world problems.
 
-I am not perfect — but I show up every day to get better.
+### 📂 Featured Repositories
 
----
+* **[Python-Learning-Journey](https://github.com/YS-Pundir/python-learning-journey)**: My initial Python practice files.
+* **[STUDENT-SCORE-PREDICTOR](https://github.com/YS-Pundir/STUDENT-SCORE-PREDICTOR)**: Linear Regression applied to predictive modeling.
+* **[Machine-Learning-Foundations](https://github.com/YS-Pundir/Machine-Learning-Foundations)**: Documenting the bridge between data foundations and AI engineering.
+* **[agentic-ai-learning] (Coming Soon)**: Projects from IIT Roorkee course.
+* **[fastapi-backend-projects] (Coming Soon)**: Production-ready AI APIs.
 
-##  What I Am Working On Right Now ->
+### My Mindset ->
 
-- Revising **Python** deeply  
-- Revising **Java** from basics to project level  
-- Practicing **DSA**  
-- Learning **backend development (Spring Boot + PostgreSQL)**  
-- Building small → medium → advanced projects  
-- Understanding real-world software engineering concepts  
-- Exploring **Agentic AI systems** from IIT Roorkee
-
----
-
-##  My Goals->
-
-###  Software Engineering Goals
-- Build a strong foundation in all core software engineering subjects  
-  (Operating Systems, Database Systems, Computer Networks, Software Architecture, Algorithms, Design Patterns)
-- Develop clean coding habits, documentation skills, and real development workflows
-- Become confident with Git, GitHub, version control, and team collaboration
-- Learn industry-level software development practices used in real companies
-
-###  Development Goals
-- Master Java backend development (Spring Boot + PostgreSQL)
-- Build real-world applications step by step
-- Strengthen DSA for coding interviews and problem-solving
-- Create automation scripts and useful tools with Python
-- Contribute to open-source projects
-
-###  Agentic AI & Future Tech Goals
-- Explore Agentic AI systems through my **IIT Roorkee course**
-- Understand how autonomous agents learn, reason, and make decisions
-- Build small AI agents and tools to apply what I learn
-- Work at the intersection of **software engineering + AI systems**
-
-###  Career & Long-Term Vision
-- Work in modern tech companies (Germany / Global)
-- Gain experience in large-scale backend systems and intelligent applications
-- Keep documenting my journey on GitHub from beginner → expert
-- Become a developer who builds impactful, meaningful software
-
-
-## 📂 Repositories Coming Soon ->
-
-- `python-learning-journey`  
-- `python-revision`  
-- `java-revision`  
-- `backend-projects`  
-- `dsa-practice`  
-- `agentic-ai-learning`  
-
-These repositories will show how I grow step by step.
-
----
-
-##  My Mindset ->
-
-> “I started with nothing but curiosity.  
->  
-> Germany, Tesla, and my studies showed me what I can become.  
->  
-> This GitHub is my journey — raw, real, and full of hard work.”
-
----
-
-Thanks for visiting my profile!  
-
+“I started with nothing but curiosity. Germany, Tesla, and my studies showed me what I can become. This GitHub is my journey — raw, real, and full of hard work.”
+Thanks for visiting my profile!
