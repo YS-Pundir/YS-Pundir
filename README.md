@@ -42,7 +42,7 @@ Now, I am studying what I truly love.
 
 ### 📂 Featured Repositories
 
-* **[Python-Revision](https://github.com/YS-Pundir/Python-Revision)**: My initial Python practice files.
+* **[AI-Engineering-Fundamentals](https://github.com/YS-Pundir/Python-Revision)**: My initial and successfull stage of learning in the feild.
 * **[STUDENT-SCORE-PREDICTOR](https://github.com/YS-Pundir/STUDENT-SCORE-PREDICTOR)**: Linear Regression applied to predictive modeling.
 * **[Machine-Learning-Foundations](https://github.com/YS-Pundir/Machine-Learning-Foundations)**: Documenting the bridge between data foundations and AI engineering.
 * **[agentic-ai-learning] (Coming Soon)**: Projects from IIT Roorkee course.
