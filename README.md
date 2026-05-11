@@ -1,54 +1,159 @@
-# Hi! I’m Yuvraj Singh Pundir
+# Hi, I’m Yuvraj Singh Pundir 👋
 
-*Software Engineering Student | Future AI Engineer*
+### Software Engineering Student @ University of Europe for Applied Sciences, Germany  
+### IIT Roorkee Agentic AI Systems & Design Fellow  
+### Backend & Agentic AI Systems Engineer
 
-### My Journey ->
+I build the bridge between scalable backend engineering and autonomous AI systems.
 
-My passion for technology began with a profound curiosity, practicing C language fundamentals on **paper and pencil** during my first semester at Kurukshetra University. That simple exercise sparked a lifelong enjoyment of solving logical problems.
+My journey began with C fundamentals at Kurukshetra University and evolved through industrial-scale engineering exposure at Tesla Gigafactory Berlin into building AI systems focused on retrieval, orchestration, memory, and intelligent workflows.
 
-Later, I moved to Germany for my studies. Before diving into software, I worked for 2 months at **Tesla’s Gigafactory Berlin**. Working in that massive, advanced environment was a turning point. It didn't just show me how a factory operates; it opened my eyes to the incredible scale of modern engineering. That experience fueled my motivation to study harder and become a powerful technical contributor.
+---
 
-Now, I am studying what I truly love.
+# 🚀 Current Focus
 
-### Who I Am Today ->
+- Building Agentic AI workflows with LangGraph
+- Designing Retrieval-Augmented Generation (RAG) systems
+- Backend engineering with FastAPI & PostgreSQL
+- Exploring LLMOps, observability, and evaluation systems
+- Developing scalable AI infrastructure
 
-* I am a **Software Engineering student** at the University of Europe, Potsdam (Germany).
-* I am also taking the **Agentic AI Systems & Design** course from **IIT Roorkee**.
-* Languages: C → Python → Java → Git/GitHub.
-* I’m building my foundations step by step and openly sharing my learning journey.
-* I am not perfect — but I show up every day to get better.
+---
 
-### What I Am Working On Right Now ->
+# 🛠️ Tech Stack
 
-* Revising **Python** for Data Science and Backend development.
-* Mastering **Machine Learning** .
-* Building **Agentic AI systems** (RAG, Tool-calling, Multi-agents) through IIT Roorkee.
-* Developing **backend services** using FastAPI, Spring Boot, and PostgreSQL.
+### AI Engineering
+`Python` • `Scikit-Learn` • `Pandas` • `NumPy` • `RAG` • `LLM Fundamentals`
 
-### My Goals->
+### Backend & Infrastructure
+`FastAPI` • `Spring Boot` • `PostgreSQL` • `Docker`
 
-#### Software Engineering & Backend Goals
-* Build a strong foundation in core subjects (OS, DB, Networks, Architecture).
-* Master **FastAPI** and **Spring Boot** for scalable API development.
-* Become confident with industry-level workflows: Git, Docker, and CI/CD.
+### Programming
+`Python` • `Java` • `C`
 
-#### AI & Agentic Goals
-* Master **RAG architectures** and **Vector Databases**.
-* Work at the intersection of **software engineering + AI agents**.
+### Workflow & Tooling
+`Git` • `GitHub` • `Git LFS` • `Joblib`
 
-#### Career & Vision
-* Work in modern tech companies (Global).
-* Build impactful, intelligent software that solves real-world problems.
+---
 
-### 📂 Featured Repositories
+# 🗺️ Engineering Journey
 
-* **[AI-Engineering-Fundamentals](https://github.com/YS-Pundir/Python-Revision)**: My initial and successfull stage of learning in the feild.
-* **[STUDENT-SCORE-PREDICTOR](https://github.com/YS-Pundir/STUDENT-SCORE-PREDICTOR)**: Linear Regression applied to predictive modeling.
-* **[Machine-Learning-Foundations](https://github.com/YS-Pundir/Machine-Learning-Foundations)**: Documenting the bridge between data foundations and AI engineering.
-* **[agentic-ai-learning] (Coming Soon)**: Projects from IIT Roorkee course.
-* **[fastapi-backend-projects] (Coming Soon)**: Production-ready AI APIs.
+## ✅ Foundations
+Built strong programming, backend, and software engineering fundamentals through C, Python, and system-oriented problem solving.
 
-### My Mindset ->
+## ✅ Machine Learning Systems
+Built and optimized regression and classification pipelines with strong focus on preprocessing, feature engineering, evaluation metrics, and model tuning.
 
-“I started with nothing but curiosity. Germany, Tesla, and my studies showed me what I can become. This GitHub is my journey — raw, real, and full of hard work.”
-Thanks for visiting my profile!
+## 🔄 GenAI & LLM Infrastructure
+Currently focused on:
+- RAG pipelines
+- Hybrid retrieval systems
+- Memory architectures
+- Context engineering
+- Tool orchestration
+- Structured agent communication
+
+## ⏳ Agentic Systems & LLMOps
+Upcoming focus areas:
+- LangGraph orchestration
+- Multi-agent architectures
+- AI observability & tracing
+- Evaluation systems
+- Scalable AI deployment infrastructure
+
+---
+
+# ⚡ What I’m Building
+
+- Retrieval-Augmented AI systems
+- Multi-agent orchestration workflows
+- Backend APIs for AI applications
+- Long-term memory architectures for autonomous agents
+- Production-ready ML pipelines
+
+---
+
+# 📂 Featured Projects
+
+## 🌍 Geo-Spatial-Valuation-Regressor
+Tuned Random Forest regression pipeline focused on geo-spatial valuation and optimized deployment workflows.
+
+### Highlights
+- Feature engineering & preprocessing
+- Random Forest optimization
+- Model serialization using Joblib
+- Git LFS integration for large-model handling
+
+🔗 Repository  
+https://github.com/YS-Pundir/geo-spatial-valuation-regressor
+
+---
+
+## 🧠 Clinical-Tumor-Classifier
+Machine learning diagnostic classification pipeline designed with evaluation-driven optimization and production-oriented structure.
+
+### Highlights
+- Classification workflow
+- Data preprocessing pipeline
+- Evaluation metric optimization
+- Structured ML engineering workflow
+
+🔗 Repository  
+https://github.com/YS-Pundir/clinical-tumor-classifier
+
+---
+
+## ⚙️ AI-Engineering-Foundation
+A comprehensive foundation repository covering Python fundamentals, SQL, EDA, backend-oriented programming, and AI engineering workflows.
+
+### Highlights
+- Python engineering fundamentals
+- Data analysis & visualization
+- SQL & data workflows
+- Backend programming exercises
+- AI engineering foundations
+- Structured learning progression
+
+🔗 Repository  
+https://github.com/YS-Pundir/AI-Engineering-Foundation
+
+---
+
+## 📊 Applied-Machine-Learning-Workflows
+Implementation-focused machine learning workflows covering preprocessing, regression, classification, clustering, and evaluation systems.
+
+### Highlights
+- End-to-end ML workflows
+- Data preprocessing & feature engineering
+- Regression & classification pipelines
+- K-Means clustering & segmentation
+- Evaluation metrics & model tuning
+- Leakage prevention & validation workflows
+
+🔗 Repository  
+https://github.com/YS-Pundir/Applied-Machine-Learning-Workflows
+
+
+
+---
+
+# 🎯 Philosophy
+
+> “I started with curiosity and built discipline through engineering.  
+> This GitHub represents my journey into building intelligent systems that solve real-world problems.”
+
+---
+
+# 📈 2026 Goals
+
+- Build production-grade AI agents
+- Master LLMOps & orchestration systems
+- Contribute to open-source AI infrastructure
+- Develop scalable AI backend systems
+- Transition into AI Systems Engineering roles
+
+---
+
+
+
+⭐ Always learning. Always building.
