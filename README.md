@@ -47,17 +47,6 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 
 ---
 
-# 📈 2026 Goals
-
-- Build production-grade AI agents
-- Master LLMOps & orchestration systems
-- Contribute to open-source AI infrastructure
-- Develop scalable AI backend systems
-- Transition into AI Systems Engineering roles
-
----
-
-
 
 ⭐ Always learning. Always building.
-![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YS-Pundir&show_icons=true&theme=radical)
+
