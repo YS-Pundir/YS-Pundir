@@ -1,8 +1,11 @@
 # Hi, I’m Yuvraj Singh Pundir 👋
+https://experience-api.masaischool.com/badge/MTAwMDUwOTkuMTI1.ycOIp1YmH-f9KoE9
 
 ### Software Engineering Student @ University of Europe for Applied Sciences, Germany  
 ### IIT Roorkee Agentic AI Systems & Design Fellow  
 ### Backend & Agentic AI Systems Engineer
+
+
 
 I build the bridge between scalable backend engineering and autonomous AI systems.
 
