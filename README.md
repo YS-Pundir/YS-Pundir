@@ -1,6 +1,6 @@
 # Hi, I’m Yuvraj Singh Pundir 👋
 ### 🏆 Achievements
-![Total Engagement Gold](https://experience-api.masaischool.com/badge/MTAwMDUwOTkuMTI1.ycOIp1YmH-f9KoE9)
+![Total Engagement Gold](https://cdn.masaischool.com/coding-platform/dev/lms/tickets/5a189602-e65e-49a7-986e-2937fd105eb8/frpWv2Te0JCZa1Dc.png)(https://experience-api.masaischool.com/badge/MTAwMDUwOTkuMTI1.ycOIp1YmH-f9KoE9)
 
 ### Software Engineering Student @ University of Europe for Applied Sciences, Germany  
 ### IIT Roorkee Agentic AI Systems & Design Fellow  
