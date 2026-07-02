@@ -27,9 +27,27 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 ---
 
 ### 🛠️ Core Tech Stack
-* **AI Engineering:** Python, LangChain, RAG, LLM Fundamentals, Scikit-Learn, Pandas.
-* **Backend:** FastAPI, Spring Boot, PostgreSQL, Docker.
-* **GenAI/Agentic:** LangGraph, Observability, Vector Databases (ChromaDB).
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,react,mysql,git,github,vscode,postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMOps-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI%20APIs-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Integration-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Workflow%20Automation-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20Systems-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-lightgrey?style=for-the-badge" />
+</p>
 
 ---
 
