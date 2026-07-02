@@ -14,10 +14,14 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 ---
 
 ### 🏆 Achievements
-<a href="https://experience-api.masaischool.com/badge/MTAwMDUwOTkuMTI1.ycOIp1YmH-f9KoE9">
-  <img src="https://cdn.masaischool.com/coding-platform/dev/lms/tickets/5a189602-e65e-49a7-986e-2937fd105eb8/frpWv2Te0JCZa1Dc.png" alt="Total Engagement Gold" width="200">
-</a>
-
+<div align="center">
+  <a href="https://experience-api.masaischool.com/badge/MTAwMDUwOTkuMTI1.ycOIp1YmH-f9KoE9">
+    <img src="https://cdn.masaischool.com/coding-platform/dev/lms/tickets/5a189602-e65e-49a7-986e-2937fd105eb8/frpWv2Te0JCZa1Dc.png" alt="Total Engagement Gold" width="150" style="margin-right: 20px;">
+  </a>
+  <a href="https://verify.masaischool.com/certificate/U6ezJkice7">
+    <img src="https://experience-api-production.s3.ap-south-1.amazonaws.com/student-certificates/certificate_june_iitr_n-60/iitr-as-2601-182/2-yuvrajpundir2005-gmail.com-56ffc797-07ac-46e9-949e-54ce5034ada4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAQHWKSGFCKSS2ZART%2F20260702%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20260702T125818Z&X-Amz-Expires=600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECwaCmFwLXNvdXRoLTEiRzBFAiEAqHZbZIXWJ8Sux2wPk4p2EYAU7PXqEnsfBmbvFemOJ%2FoCIG46uX98mqSulTxpQpM9sYQ1uhuj2P0dpbBH3VXScPf1KoMDCPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAhoMMDE2NTMwOTQ0MzI0IgzUgNLdfNjt9ixjN3Aq1wIHce660K6RTxPV27Aap2IjO7MhSx5oqpfeVfd6w2te%2FOfW8L%2FIlDi8KTVK9JpGs4qA9pfYOaJcLOT%2FOv2WjoQWxx4xFO54JQMzfzu%2FPlA9RfieivUqOkd65wiy7uWsC%2BCqg2E8EXPVtj3mDwZ4Cn%2BpbaThDsPDw9qOuZ7EjAFRB2D815NnfFw21wxlAuihxFKFD1WSI5RrOWthMlEeouhUAvJuk%2BYlXQZldjZwUdlDwpQvRfnZrDu1aWG97aj8JR6AH56CTieo19r4Z%2Bpl5jnrLJYR7O9ALpLlZwjm4KaRIDpMp7%2F%2B01qsu1X%2FbsYyRO2nBqcvc84u%2F%2BCHhDLNJ3VNdYQJti5ZGJZnsKGb%2BIjkE64HjwwLy%2FHvZbfyLrM%2FtXzp%2Bi%2B8WN33Gwf8WYZ1t%2F%2FhpEb9G5lsPrvsESa8NCVrckUcGYzq9Wk%2Bza3S%2BhkAJEwQ0V%2FLbQ%2BVMLyzmdIGOo8BEwXj8H9FP9UcaTye3ct5RoYPHOQ7RqcJ2yGIPG%2FQrx%2FbwPkdlvlgjbQpjA3l2NFzhBQ4gm8nJRHKUIRShbuhWlUYBh1zu6gA2jhx1hZEARag%2BwR7iAd2%2BEB7sutNE%2FQ8zlebqs0D1qohrcln7BDKwOATk6%2FPgKpQhDF14mKTdVQSvFohSPrNd6xNokSaXqo%3D&X-Amz-Signature=64de0e9bc443e50ec33bed90307e92647a7ae942347c51e79e045aa711c05b20&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22masai-certificate.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject" alt="Certificate of Consistent Excellence" width="150">
+  </a>
+</div>
 ---
 
 ### 🛠️ Core Tech Stack
