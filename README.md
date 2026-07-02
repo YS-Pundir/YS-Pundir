@@ -1,6 +1,5 @@
 # Hi, I’m Yuvraj Singh Pundir 👋
-### 🏆 Achievements
-[![Total Engagement Gold](https://cdn.masaischool.com/coding-platform/dev/lms/tickets/5a189602-e65e-49a7-986e-2937fd105eb8/frpWv2Te0JCZa1Dc.png)(https://experience-api.masaischool.com/badge/MTAwMDUwOTkuMTI1.ycOIp1YmH-f9KoE9)]
+
 
 ### Software Engineering Student @ University of Europe for Applied Sciences, Germany  
 ### IIT Roorkee Agentic AI Systems & Design Fellow  
@@ -11,6 +10,13 @@
 I build the bridge between scalable backend engineering and autonomous AI systems.
 
 My journey began with C fundamentals at Kurukshetra University and evolved through industrial-scale engineering exposure at Tesla Gigafactory Berlin into building AI systems focused on retrieval, orchestration, memory, and intelligent workflows.
+
+---
+
+### 🏆 Achievements
+<a href="https://experience-api.masaischool.com/badge/MTAwMDUwOTkuMTI1.ycOIp1YmH-f9KoE9">
+  <img src="https://cdn.masaischool.com/coding-platform/dev/lms/tickets/5a189602-e65e-49a7-986e-2937fd105eb8/frpWv2Te0JCZa1Dc.png" alt="Total Engagement Gold" width="200">
+</a>
 
 ---
 
