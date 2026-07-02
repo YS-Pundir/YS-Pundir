@@ -64,13 +64,6 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 - Mastering LLMOps, tracing, and AI observability.
 - Contributing to open-source AI infrastructure.
 
----
-
-### 🌐 Let's Connect
-- [**LinkedIn**](https://www.linkedin.com/in/yuvraj-singh-pundir-908623351)
-- [**Portfolio/GitHub**](https://github.com/YS-Pundir)
-
-
 
 ---
 
