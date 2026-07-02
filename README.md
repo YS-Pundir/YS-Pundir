@@ -52,7 +52,8 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 ---
 
 ### 📂 Featured AI Projects
-* [**TeslaFi-Groq-RAG**](https://github.com/YS-Pundir/TeslaFi-Groq-RAG) – A production-grade RAG engine with conversational memory for financial analysis.
+
+* [**SINDHU-RAG**]([https://github.com/your-username/your-repository-name](https://github.com/YS-Pundir/Sindhu-RAG)) – Production-inspired Retrieval-Augmented Generation pipeline with semantic search, ChromaDB, conversational memory, configurable prompts, and automated evaluation.
 * [**Job Agent**](https://github.com/YS-Pundir/Job-Agent) – A multi-source CLI scraping engine for job aggregation.
 * [**Geo-Spatial Valuation Engine**](https://github.com/YS-Pundir/geo-spatial-valuation-regressor) – Optimized ML pipeline for non-linear regression.
 * [**Clinical Tumor Classifier**](https://github.com/YS-Pundir/clinical-tumor-classifier) – Production-oriented diagnostic inference pipeline.
