@@ -32,36 +32,29 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 
 <p align="center">
 
-### 🤖 AI Models
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,sqlite,redis,docker,git,github,githubactions,vscode,linux,bash,numpy,pandas&perline=15"/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge"/>
+</p>
 
-### 💻 Development
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,sqlite,redis,docker,git,github,githubactions,vscode,linux,bash"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square"/>
+<img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
 
-### 📊 Data Science
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-6E56CF?style=flat-square"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-
-### 🤖 Agentic AI
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-6E56CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-8A2BE2?style=for-the-badge"/>
-
-### 📚 RAG
-
-<img src="https://img.shields.io/badge/ChromaDB-7B68EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pinecone-0056D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-7B68EE?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pinecone-0056D2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-FF9800?style=flat-square"/>
+<img src="https://img.shields.io/badge/Semantic_Search-4285F4?style=flat-square"/>
 
 </p>
 ---
