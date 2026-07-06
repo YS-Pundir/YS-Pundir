@@ -29,19 +29,57 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-### 🤖 AI & Agentic Systems
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,vscode,postgresql" />
+### 🧠 LLMs & AI Models
 
-<br><br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🧠_LLMs-GPT_|_Gemini_|_Llama-6E56CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔗_Frameworks-LangChain_|_LangGraph-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📚_RAG-ChromaDB_|_FAISS_|_Embeddings-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_Agents-MCP_|_Tool_Calling_|_Multi--Agent-orange?style=for-the-badge"/>
+---
+
+### 🤖 Agentic AI
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-6E56CF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-7B42BC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tool_Calling-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent-FF9800?style=for-the-badge"/>
+
+---
+
+### 📚 RAG
+
+<img src="https://img.shields.io/badge/ChromaDB-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-0056D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic_Search-4285F4?style=for-the-badge"/>
+
+---
+
+### 💻 Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,sqlite,redis&perline=6"/>
+
+---
+
+### 📊 Data Science
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&perline=3"/>
+
+---
+
+### ☁️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,collab,linux,bash&perline=7"/>
 
 </div>
 
