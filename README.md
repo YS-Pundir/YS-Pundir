@@ -30,7 +30,7 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgresql,sqlite,redis,docker,git,github,githubactions,vscode,linux,bash,numpy,pandas&perline=15"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,sqlite,redis,docker,git,github,githubactions,vscode,linuxjava&perline=15"/>
 
 </p>
 
