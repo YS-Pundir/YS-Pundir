@@ -21,9 +21,7 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
   <a href="https://experience-api.masaischool.com/badge/MTAwMDUwOTkuMTI1.ycOIp1YmH-f9KoE9">
     <img src="https://cdn.masaischool.com/coding-platform/dev/lms/tickets/5a189602-e65e-49a7-986e-2937fd105eb8/frpWv2Te0JCZa1Dc.png" alt="Total Engagement Gold" width="150" style="margin-right: 20px;">
   </a>
-  <a href="https://verify.masaischool.com/certificate/U6ezJkice7">
-    <img src="https://verify.masaischool.com/certificate/f5XSrBfJZh.png" width="150">
-  </a>
+
 </div>
 
 
