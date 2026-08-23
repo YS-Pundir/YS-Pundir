@@ -57,8 +57,8 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 <img src="https://img.shields.io/badge/Semantic_Search-4285F4?style=flat-square"/>
 
 </p>
----
 
+---
 ### 📂 Featured AI Projects
 
 * [**Agentic-Support-System**](https://github.com/YS-Pundir/Agentic-Support-System.git) – A modular Agentic AI support system powered by LangChain, featuring multi-tool orchestration, RAG, SQL querying, web search, conversational memory, and configurable workflows.
