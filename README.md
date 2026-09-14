@@ -61,9 +61,9 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 * [**cartmind-agentic-ecommerce-support**](https://github.com/YS-Pundir/cartmind-agentic-ecommerce-support.git) – LangGraph agent (RAG + SQL tool routing) for e-commerce support with PII masking, prompt-injection detection, JSON-Schema-validated output, and SQLite checkpointing. Offline-first, FastAPI + MCP server included.
 * [**Agentic-Support-System**](https://github.com/YS-Pundir/Agentic-Support-System.git) – A modular Agentic AI support system powered by LangChain, featuring multi-tool orchestration, RAG, SQL querying, web search, conversational memory, and configurable workflows.
 * [**SINDHU-RAG**](https://github.com/YS-Pundir/Sindhu-RAG) – Production-inspired Retrieval-Augmented Generation pipeline with semantic search, ChromaDB, conversational memory, configurable prompts, and automated evaluation.
-* [**Job Agent**](https://github.com/YS-Pundir/Job-Agent) – A multi-source CLI scraping engine for job aggregation.
 * [**Geo-Spatial Valuation Engine**](https://github.com/YS-Pundir/geo-spatial-valuation-regressor) – Optimized ML pipeline for non-linear regression.
 * [**Clinical Tumor Classifier**](https://github.com/YS-Pundir/clinical-tumor-classifier) – Production-oriented diagnostic inference pipeline.
+* [**EDA-snack-app-stock-market**](https://github.com/YS-Pundir/EDA-snack-app-stock-market.git) – end-to-end data pipeline that fetches real-time stock data via the Alpha Vantage API. This project serves as a comprehensive Data Ingestion & EDA capstone
 
 ---
 
