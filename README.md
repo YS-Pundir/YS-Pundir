@@ -26,36 +26,41 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 
 
 ---
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+### 🤖 Agentic AI & GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=lightning&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,sqlite,redis,docker,git,github,githubactions,vscode,linuxjava&perline=15"/>
+### 🐍 Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-</p>
+### 📊 Data & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-<p align="center">
+### 🚀 Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square"/>
-<img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-6E56CF?style=flat-square"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/ChromaDB-7B68EE?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-009688?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pinecone-0056D2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embeddings-FF9800?style=flat-square"/>
-<img src="https://img.shields.io/badge/Semantic_Search-4285F4?style=flat-square"/>
-
-</p>
-
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ---
 ### 📂 Featured AI Projects
 * [**cartmind-agentic-ecommerce-support**](https://github.com/YS-Pundir/cartmind-agentic-ecommerce-support.git) – LangGraph agent (RAG + SQL tool routing) for e-commerce support with PII masking, prompt-injection detection, JSON-Schema-validated output, and SQLite checkpointing. Offline-first, FastAPI + MCP server included.
