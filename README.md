@@ -1,15 +1,12 @@
-# Hi, I’m Yuvraj Singh Pundir 👋
-
+# Hi, I'm Yuvraj Singh Pundir 👋
 
 ### Software Engineering Student @ University of Europe for Applied Sciences, Germany  
 ### IIT Roorkee Agentic AI Systems & Design Fellow  
 ### Backend & Agentic AI Systems Engineer
 
-
-
 I build the bridge between scalable backend engineering and autonomous AI systems.
 
-My journey began with C fundamentals at Kurukshetra University and evolved through industrial-scale engineering exposure at Tesla Gigafactory Berlin into building AI systems focused on retrieval, orchestration, memory, and intelligent workflows.
+My journey began with C and Java fundamentals at Kurukshetra University and evolved through industrial-scale engineering exposure at Tesla Gigafactory Berlin into building AI systems focused on retrieval, orchestration, memory, and intelligent workflows.
 
 ---
 
@@ -21,11 +18,11 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
   <a href="https://experience-api.masaischool.com/badge/MTAwMDUwOTkuMTI1.ycOIp1YmH-f9KoE9">
     <img src="https://cdn.masaischool.com/coding-platform/dev/lms/tickets/5a189602-e65e-49a7-986e-2937fd105eb8/frpWv2Te0JCZa1Dc.png" alt="Total Engagement Gold" width="150" style="margin-right: 20px;">
   </a>
-
 </div>
-
+<p align="center"><i>Excellence in Evaluation (Silver) · Total Engagement (Gold) — IIT Roorkee Agentic AI Systems & Design Cohort</i></p>
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 🤖 Agentic AI & GenAI
@@ -61,14 +58,23 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 ---
+
 ### 📂 Featured AI Projects
 * [**cartmind-agentic-ecommerce-support**](https://github.com/YS-Pundir/cartmind-agentic-ecommerce-support.git) – LangGraph agent (RAG + SQL tool routing) for e-commerce support with PII masking, prompt-injection detection, JSON-Schema-validated output, and SQLite checkpointing. Offline-first, FastAPI + MCP server included.
 * [**Agentic-Support-System**](https://github.com/YS-Pundir/Agentic-Support-System.git) – A modular Agentic AI support system powered by LangChain, featuring multi-tool orchestration, RAG, SQL querying, web search, conversational memory, and configurable workflows.
 * [**SINDHU-RAG**](https://github.com/YS-Pundir/Sindhu-RAG) – Production-inspired Retrieval-Augmented Generation pipeline with semantic search, ChromaDB, conversational memory, configurable prompts, and automated evaluation.
-* [**Geo-Spatial Valuation Engine**](https://github.com/YS-Pundir/geo-spatial-valuation-regressor) – Optimized ML pipeline for non-linear regression.
-* [**Clinical Tumor Classifier**](https://github.com/YS-Pundir/clinical-tumor-classifier) – Production-oriented diagnostic inference pipeline.
-* [**EDA-snack-app-stock-market**](https://github.com/YS-Pundir/EDA-snack-app-stock-market.git) – end-to-end data pipeline that fetches real-time stock data via the Alpha Vantage API. This project serves as a comprehensive Data Ingestion & EDA capstone
+
+<details>
+<summary>📊 Other ML & Data Projects</summary>
+<br>
+
+* [**Geo-Spatial Valuation Engine**](https://github.com/YS-Pundir/geo-spatial-valuation-regressor) – Regression pipeline (Scikit-Learn) with feature engineering and regularization for non-linear property valuation.
+* [**Clinical Tumor Classifier**](https://github.com/YS-Pundir/clinical-tumor-classifier) – Classification pipeline (Scikit-Learn) with confusion-matrix and ROC-AUC evaluation for diagnostic inference.
+* [**EDA-snack-app-stock-market**](https://github.com/YS-Pundir/EDA-snack-app-stock-market.git) – End-to-end ingestion pipeline pulling real-time stock data via the Alpha Vantage API, with Pandas cleaning and visualization. Data Ingestion & EDA capstone.
+
+</details>
 
 ---
 
@@ -77,16 +83,13 @@ My journey began with C fundamentals at Kurukshetra University and evolved throu
 - Mastering LLMOps, tracing, and AI observability.
 - Contributing to open-source AI infrastructure.
 
-
 ---
 
 # 🎯 Philosophy
 
-> “I started with curiosity and built discipline through engineering.  
-> This GitHub represents my journey into building intelligent systems that solve real-world problems.”
+> "I started with curiosity and built discipline through engineering.  
+> This GitHub represents my journey into building intelligent systems that solve real-world problems."
 
 ---
 
-
 ⭐ Always learning. Always building.
-
