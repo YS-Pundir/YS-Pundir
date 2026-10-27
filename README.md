@@ -48,8 +48,8 @@ Answers come from retrieved documents or real database rows, not from guesses.
 Masking, injection checks and schema-validated output sit around the model.
 </td>
 <td align="center" width="33%">
-<h3>📝 Honest</h3>
-Every README says what is synthetic, what is mocked and what is still missing.
+<h3>📏 Evaluated</h3>
+Each system ships with a test set and scores, so its claims can be checked.
 </td>
 </tr>
 </table>
