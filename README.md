@@ -1,17 +1,18 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Yuvraj%20Singh%20Pundir&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Agentic%20AI%20%C2%B7%20RAG%20%C2%B7%20Backend%20Systems&descSize=18&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Yuvraj%20Singh%20Pundir&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Agentic%20AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Backend&descSize=18&descAlignY=58" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B7CF6&center=true&vCenter=true&width=640&lines=Software+engineering+student+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA;I+build+AI+agents+that+stay+grounded;Guardrails+first.+Honest+limits+always.;Currently+learning+LLM+tracing+%26+observability" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=8B7CF6&center=true&vCenter=true&width=700&height=40&lines=Software+engineering+student+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA;%F0%9F%94%8E+Seeking+internships+in+AI%2C+ML+%26+Backend;Agentic+AI+%C2%B7+Machine+Learning+%C2%B7+Backend;I+build+AI+agents+that+stay+grounded;Grounded.+Guarded.+Evaluated.;Applying+AI+%26+backend+skills+to+real+business+use+cases" alt="typing intro" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-singh-pundir-908623351)
 ![Location](https://img.shields.io/badge/Berlin-Germany-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Agentic%20AI-6E56CF?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20ML%20%7C%20Backend-6E56CF?style=for-the-badge)
+![Open to](https://img.shields.io/badge/Open%20to-Internships-2EA043?style=for-the-badge)
 
 </div>
 
@@ -24,13 +25,14 @@ FILL IN OR DELETE before publishing (only add what you can state exactly):
 
 ## 👋 About me
 
-I build the retrieval, tool-routing and safety layers around LLMs, and I write down what each system **cannot** do as clearly as what it can.
+I build AI agents, machine learning pipelines and backend services. For LLM apps that means the retrieval, tool-routing and safety layers around the model, and I write down what each system **cannot** do as clearly as what it can.
 
 | | |
 |---|---|
 | 🎓 **Studying** | B.Sc. Software Engineering, University of Europe for Applied Sciences |
 | 🧠 **Fellowship** | IIT Roorkee Agentic AI Systems & Design cohort<br/>🥈 Excellence in Evaluation (Silver) · 🥇 Total Engagement (Gold) |
-| 🔭 **Now** | Evaluating agents with real models, learning tracing and observability |
+| 💼 **Open to** | Internships in agentic AI, machine learning and backend engineering |
+| 🔭 **Now** | Applying agentic AI, ML and backend skills to real business use cases |
 | 🌍 **Based in** | Berlin |
 
 ---
@@ -211,7 +213,7 @@ Pulls stock data from the Alpha Vantage API, cleans it with NumPy and Pandas, an
 
 - [ ] Run my agents against real models and publish the scores
 - [ ] Replace keyword intent routing with a measured classifier
-- [ ] Learn LLM tracing and observability
+- [ ] Apply these skills to real business use cases
 - [ ] Contribute to open-source AI tooling
 
 ---
