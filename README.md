@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Yuvraj%20Singh%20Pundir&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Agentic%20AI%20%C2%B7%20RAG%20%C2%B7%20Backend%20Systems&descSize=18&descAlignY=58" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B7CF6&center=true&vCenter=true&width=640&lines=Software+engineering+student+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA;I+build+AI+agents+that+stay+grounded;Guardrails+first.+Honest+limits+always.;Currently+learning+LLM+tracing+%26+observability" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B7CF6&center=true&vCenter=true&width=640&lines=Software+engineering+student+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA;I+build+AI+agents+that+stay+grounded;Guardrails+first.+Honest+limits+always.;Currently+learning+LLM+seeking+%26+internships" alt="typing intro" />
 </a>
 
 <br/>
