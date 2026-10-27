@@ -9,7 +9,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-singh-pundir-908623351/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-singh-pundir-908623351)
 ![Location](https://img.shields.io/badge/Berlin-Germany-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Agentic%20AI-6E56CF?style=for-the-badge)
 
@@ -188,7 +188,7 @@ Pulls stock data from the Alpha Vantage API, cleans it with Pandas and visualize
 
 **Want to talk agents, RAG or backend design?**
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-singh-pundir-908623351/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-singh-pundir-908623351)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
 
